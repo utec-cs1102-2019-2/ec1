@@ -2,9 +2,18 @@
 #define SESSION10B_ALUMNO_H
 
 #include "Persona.h"
-class Alumno : Persona {
+class Alumno : public Persona {
 private:
     string codigo;
+public:
+    Alumno(
+            string nombre,
+            int edad,
+            string dni,
+            string nacionalidad,
+            string codigo);
+    void mostrarAlmumno();
+
 };
 
 
