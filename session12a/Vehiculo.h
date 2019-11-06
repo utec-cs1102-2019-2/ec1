@@ -12,10 +12,8 @@ public:
     int posY;
 
     Vehiculo();
-
-    virtual void avanzar();
-
-    virtual void retroceder();
+    virtual void avanzar()=0;
+    virtual void retroceder()=0;
 };
 
 #endif //SESSION12A_VEHICULO_H

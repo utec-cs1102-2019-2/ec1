@@ -4,6 +4,7 @@
 using namespace std;
 
 Bicicleta::Bicicleta():Vehiculo() {
+
     posX = 0;
     posY = 0;
     srand(time(nullptr));
