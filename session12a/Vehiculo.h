@@ -9,8 +9,9 @@ public:
     int posX;
     int posY;
 
-    void avanzar();
-    void retroceder();
+     void avanzar();
+
+     void retroceder();
 };
 
 #endif //SESSION12A_VEHICULO_H
