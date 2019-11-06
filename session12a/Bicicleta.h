@@ -4,11 +4,9 @@
 #include "Vehiculo.h"
 class Bicicleta : public Vehiculo {
 public:
-    void avanzar() override;
-
-    void retroceder() override;
-
     Bicicleta();
+    void avanzar() override;
+    void retroceder() override;
 };
 
 #endif //SESSION12A_BICICLETA_H
