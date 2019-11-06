@@ -1,10 +1,8 @@
 #include "Vehiculo.h"
 
-
-void Vehiculo::avanzar() {
-
-}
-
-void Vehiculo::retroceder() {
+Vehiculo::Vehiculo() {
 
 }
+void Vehiculo::avanzar() {}
+
+void Vehiculo::retroceder() {}

@@ -8,9 +8,9 @@ class Bote: public Vehiculo {
 public:
     Bote();
 
-    void avanzar() ;
+    void avanzar() override ;
 
-    void retroceder() ;
+    void retroceder() override ;
 };
 
 

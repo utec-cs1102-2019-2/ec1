@@ -4,8 +4,10 @@
 #include "Vehiculo.h"
 class Bicicleta : public Vehiculo {
 public:
-    void avanzar();
-    void retroceder();
+    void avanzar() override;
+
+    void retroceder() override;
+
     Bicicleta();
 };
 
