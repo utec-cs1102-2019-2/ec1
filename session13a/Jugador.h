@@ -7,10 +7,9 @@ using namespace std;
 
 class Jugador {
 public:
-    int numero;
     string nombre;
-    Jugador(int numero, string nombre);
-    
+    Jugador(string nombre);
+
     virtual void marcar() = 0;
 };
 

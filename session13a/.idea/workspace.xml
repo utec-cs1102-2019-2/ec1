@@ -12,29 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="898ebad5-fdd8-4c28-976b-8c82b4d9c49a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cuadrado.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cuadrado.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Humano.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Humano.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Juego.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Juego.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jugador.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jugador.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tablero.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tablero.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session11a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session11a/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session12a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session12a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12a/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12a/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session12b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Gato.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Gato.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Gato.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Gato.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Mascota.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Mascota.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Perro.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Perro.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Perro.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Perro.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bot.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot.h" beforeDir="false" afterPath="$PROJECT_DIR$/Bot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Humano.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Humano.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Humano.h" beforeDir="false" afterPath="$PROJECT_DIR$/Humano.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jugador.h" beforeDir="false" afterPath="$PROJECT_DIR$/Jugador.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,26 +35,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jugador.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
+            <state relative-caret-position="212">
               <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bot.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="106">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jugador.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="139">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding>
                 <element signature="e#59#78#0" expanded="true" />
               </folding>
@@ -79,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Humano.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="22">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -109,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Juego.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="351">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#56#76#0" expanded="true" />
               </folding>
@@ -121,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Humano.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="287">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -130,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bot.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="183">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -161,13 +147,13 @@
         <option value="$PROJECT_DIR$/Tablero.h" />
         <option value="$PROJECT_DIR$/Tablero.cpp" />
         <option value="$PROJECT_DIR$/Juego.h" />
-        <option value="$PROJECT_DIR$/Humano.h" />
-        <option value="$PROJECT_DIR$/Bot.h" />
-        <option value="$PROJECT_DIR$/Bot.cpp" />
         <option value="$PROJECT_DIR$/Juego.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/Humano.cpp" />
         <option value="$PROJECT_DIR$/Jugador.h" />
+        <option value="$PROJECT_DIR$/Humano.h" />
+        <option value="$PROJECT_DIR$/Humano.cpp" />
+        <option value="$PROJECT_DIR$/Bot.h" />
+        <option value="$PROJECT_DIR$/Bot.cpp" />
       </list>
     </option>
   </component>
@@ -232,18 +218,19 @@
       <option name="presentableId" value="Default" />
       <updated>1573679246144</updated>
       <workItem from="1573679247658" duration="1750000" />
-      <workItem from="1573681023685" duration="547000" />
+      <workItem from="1573681023685" duration="908000" />
+      <workItem from="1573681971376" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2297000" />
+    <option name="totallyTimeSpent" value="2792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -254,7 +241,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.31960997" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.40411702" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -264,28 +251,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.80931747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -314,34 +279,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tablero.cpp">
+    <entry file="file://$PROJECT_DIR$/Jugador.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Humano.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bot.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Juego.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="212">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -355,31 +296,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bot.cpp">
+    <entry file="file://$PROJECT_DIR$/Juego.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="636">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jugador.cpp">
+    <entry file="file://$PROJECT_DIR$/Tablero.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Humano.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="1007">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Juego.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="351">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#56#76#0" expanded="true" />
           </folding>
@@ -388,11 +325,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jugador.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="139">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
             <element signature="e#59#78#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Humano.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Humano.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bot.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bot.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>

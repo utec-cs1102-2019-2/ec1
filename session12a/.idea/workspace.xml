@@ -12,29 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="397b30f3-fc06-4c79-b2c7-485c120568bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../session13a/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Bot.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Bot.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Cuadrado.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Cuadrado.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Humano.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Humano.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Juego.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Juego.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Jugador.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Jugador.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Tablero.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session13a/Tablero.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session11a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session11a/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session12b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Gato.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Gato.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Gato.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Gato.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Mascota.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Mascota.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Perro.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Perro.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/Perro.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/Perro.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session12b/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session12b/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Bot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Bot.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Humano.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Humano.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Jugador.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Jugador.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,12 +180,12 @@
       <workItem from="1573138183127" duration="603000" />
       <workItem from="1573139999597" duration="602000" />
       <workItem from="1573679205186" duration="641000" />
-      <workItem from="1573681023834" duration="547000" />
+      <workItem from="1573681023834" duration="754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4172000" />
+    <option name="totallyTimeSpent" value="4379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />

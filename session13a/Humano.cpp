@@ -4,7 +4,7 @@
 
 #include "Humano.h"
 
-Humano::Humano(int numero, string nombre) : Jugador(numero, nombre) {
+Humano::Humano(string nombre) : Jugador( nombre) {
   cout<<"Crendo un jugador humano"<<endl;
 }
 
@@ -14,6 +14,6 @@ void Humano::marcar() {
     int y;
     cout<<"x:";cin>>x;
     cout<<"y:";cin>>y;
-    juego->t->grilla[x][y].marca = 1;
+    //juego->t->grilla[x][y].marca = 1;
 
 }

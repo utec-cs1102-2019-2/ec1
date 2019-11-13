@@ -5,8 +5,8 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
     Juego *juego = new Juego();
-    Bot *cpu = new Bot(1, "R2D2");
-    Humano *max = new Humano(2,"Max");
+    Bot *cpu = new Bot( "R2D2");
+    Humano *max = new Humano("Max");
     juego->j1 = cpu;
     juego->j2 = max;
 

@@ -1,6 +1,6 @@
 #include "Bot.h"
 
-Bot::Bot(int numero, string nombre) : Jugador(numero, nombre) {
+Bot::Bot( string nombre) : Jugador( nombre) {
     cout<<"Creando un bot"<<endl;
 }
 

@@ -6,7 +6,7 @@
 class Humano : public Jugador {
 
 public:
-    Humano(int numero, string nombre);
+    Humano(string nombre);
 
     void marcar() override;
 };

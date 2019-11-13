@@ -5,7 +5,7 @@
 
 class Bot: public Jugador {
 public:
-    Bot(int numero, string nombre);
+    Bot(string nombre);
 
     void marcar() override;
 };
