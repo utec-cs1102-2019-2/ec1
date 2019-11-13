@@ -20,7 +20,10 @@
       <change beforePath="$PROJECT_DIR$/../session13a/Bot.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session13a/Humano.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session13a/Humano.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Juego.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Juego.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Jugador.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Jugador.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session13a/Jugador.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Jugador.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/Progress/7" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -180,16 +183,15 @@
       <workItem from="1573138183127" duration="603000" />
       <workItem from="1573139999597" duration="602000" />
       <workItem from="1573679205186" duration="641000" />
-      <workItem from="1573681023834" duration="754000" />
+      <workItem from="1573681023834" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4379000" />
+    <option name="totallyTimeSpent" value="4843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26066098" />

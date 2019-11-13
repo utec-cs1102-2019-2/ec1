@@ -7,7 +7,7 @@ class Bot: public Jugador {
 public:
     Bot(string nombre);
 
-    void marcar() override;
+    void marcar(Tablero *t) override;
 };
 
 

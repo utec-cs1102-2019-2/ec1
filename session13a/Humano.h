@@ -8,7 +8,7 @@ class Humano : public Jugador {
 public:
     Humano(string nombre);
 
-    void marcar() override;
+    void marcar(Tablero *t) override;
 };
 
 

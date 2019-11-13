@@ -2,15 +2,14 @@
 #define SESSION13A_JUGADOR_H
 
 #include <iostream>
-#include "Juego.h"
+#include "Tablero.h"
 using namespace std;
 
 class Jugador {
 public:
     string nombre;
     Jugador(string nombre);
-
-    virtual void marcar() = 0;
+    virtual void marcar(Tablero *t) = 0;
 };
 
 

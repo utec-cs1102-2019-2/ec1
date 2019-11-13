@@ -8,12 +8,12 @@ Humano::Humano(string nombre) : Jugador( nombre) {
   cout<<"Crendo un jugador humano"<<endl;
 }
 
-void Humano::marcar() {
+void Humano::marcar(Tablero *t) {
     cout<<"Turno del humano"<<endl;
     int x;
     int y;
     cout<<"x:";cin>>x;
     cout<<"y:";cin>>y;
-    //juego->t->grilla[x][y].marca = 1;
+    t->grilla[x][y].marca = 1;
 
 }
