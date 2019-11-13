@@ -16,6 +16,8 @@ public:
 
     void sonido() override;
 
+    void mostrar() override;
+
 };
 
 

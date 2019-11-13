@@ -20,3 +20,10 @@ void Gato::comer() {
 void Gato::sonido() {
     cout<<"El gato "<<this->nombre<< "dice miaaaaauu";
 }
+
+void Gato::mostrar() {
+    cout<<"******** GATO *************"<<endl;
+    Mascota::mostrar();
+    cout<<"***************************"<<endl;
+
+}

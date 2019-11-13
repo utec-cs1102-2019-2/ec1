@@ -16,3 +16,10 @@ void Perro::comer() {
 void Perro::sonido() {
     cout<<"Guaaau Guaauu"<<endl;
 }
+
+void Perro::mostrar() {
+    cout<<"********* PERRO **********"<<endl;
+    Mascota::mostrar();
+    cout<<"**************************"<<endl;
+
+}

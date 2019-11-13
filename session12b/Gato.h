@@ -15,6 +15,8 @@ public:
     void comer() override;
 
     void sonido() override;
+
+    void mostrar() override;
 };
 
 

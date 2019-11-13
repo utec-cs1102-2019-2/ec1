@@ -9,7 +9,8 @@ public:
     string raza;
     int peso;
     Mascota(string nombre, string raza, int peso);
-    void mostrar();
+
+    virtual void mostrar();
     virtual void dormir() = 0;
     virtual void comer() = 0;
     virtual void sonido() = 0;

@@ -15,7 +15,6 @@ int main() {
     for(int i=0; i<mascotas.size(); i++){
         mascotas[i]->mostrar();
         mascotas[i]->sonido();
-
     }
     return 0;
 }
