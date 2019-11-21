@@ -15,6 +15,7 @@ public:
     Juego();
     void start();
     void mostrar();
+    bool esPocker();
 };
 
 

@@ -12,6 +12,6 @@ public:
     int numero;
     string palo;
     Carta(int numero, string palo);
-    mostrar();
+    void mostrar();
 };
 #endif //SESSION14A_CARTA_H

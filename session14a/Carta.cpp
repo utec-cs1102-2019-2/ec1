@@ -4,6 +4,6 @@ Carta::Carta(int numero, string palo) {
     this->palo = palo;
 }
 
-int Carta::mostrar() {
+void Carta::mostrar() {
     cout<<numero<<" "<<palo<<endl;
 }
