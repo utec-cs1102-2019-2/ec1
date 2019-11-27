@@ -16,8 +16,8 @@ public:
     void start();
     void mostrar();
     bool esPocker();
+    int contar(Carta c);
+    bool es2Pares();
 };
-
-
 
 #endif //SESSION14A_JUEGO_H

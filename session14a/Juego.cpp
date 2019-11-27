@@ -2,7 +2,7 @@
 #include <ctime>
 
 void Juego::start() {
-    srand(time(nullptr));
+
 
     for(int i=0; i<5; i++){
         int iPalo=rand()%4;
@@ -38,5 +38,25 @@ bool Juego::esPocker() {
         }
     }
     return false;
+}
 
+bool Juego::es2Pares() {
+    int repeticiones = 0;
+    for (int i = 0; i < cartas.size(); i++) {
+        repeticiones += this->contar(cartas[i]);
+    }
+    if(repeticiones == 9){
+        return true;
+    }
+    return false;
+}
+
+int Juego::contar(Carta c) {
+    int contador = 0;
+    for (int i = 0; i < cartas.size(); i++) {
+        if (cartas[i].numero == c.numero) {
+            contador++;
+        }
+    }
+    return contador;
 }
